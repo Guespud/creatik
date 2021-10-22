@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <section>
-      <nav className="h-75 flex items-center flex-wrap bg-pink-400 ">
+      <nav className="h-75 flex items-center flex-wrap bg-blue-800 ">
         <Link href="/">
           <a className="inline-flex items-center sm:px-1 px-6 p-1 mr-4 ">
             <img className="mx-6 h-10 w-10" src="images/kate.png"></img>
