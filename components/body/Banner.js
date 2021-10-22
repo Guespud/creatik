@@ -25,37 +25,14 @@ export default function Banner() {
                       <div className="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
                         <div className="w-44 h-64 rounded-lg overflow-hidden sm:opacity-0 lg:opacity-100">
                           <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
+                            src="images/9.png"
                             alt=""
                             className="w-full h-full object-center object-cover"
                           />
                         </div>
                         <div className="w-44 h-64 rounded-lg overflow-hidden">
                           <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
-                            alt=""
-                            className="w-full h-full object-center object-cover"
-                          />
-                        </div>
-                      </div>
-                      <div className="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
-                        <div className="w-44 h-64 rounded-lg overflow-hidden">
-                          <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
-                            alt=""
-                            className="w-full h-full object-center object-cover"
-                          />
-                        </div>
-                        <div className="w-44 h-64 rounded-lg overflow-hidden">
-                          <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
-                            alt=""
-                            className="w-full h-full object-center object-cover"
-                          />
-                        </div>
-                        <div className="w-44 h-64 rounded-lg overflow-hidden">
-                          <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
+                            src="images/9.png"
                             alt=""
                             className="w-full h-full object-center object-cover"
                           />
@@ -64,14 +41,37 @@ export default function Banner() {
                       <div className="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
                         <div className="w-44 h-64 rounded-lg overflow-hidden">
                           <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
+                            src="images/9.png"
                             alt=""
                             className="w-full h-full object-center object-cover"
                           />
                         </div>
                         <div className="w-44 h-64 rounded-lg overflow-hidden">
                           <img
-                            src="https://thumbs.dreamstime.com/b/las-tic-que-dirigen-el-icono-en-fondo-blanco-para-gr%C3%A1fico-y-dise%C3%B1o-web-muestra-simple-moderna-del-vector-concepto-internet-136635021.jpg"
+                            src="images/9.png"
+                            alt=""
+                            className="w-full h-full object-center object-cover"
+                          />
+                        </div>
+                        <div className="w-44 h-64 rounded-lg overflow-hidden">
+                          <img
+                            src="images/9.png"
+                            alt=""
+                            className="w-full h-full object-center object-cover"
+                          />
+                        </div>
+                      </div>
+                      <div className="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
+                        <div className="w-44 h-64 rounded-lg overflow-hidden">
+                          <img
+                            src="images/9.png"
+                            alt=""
+                            className="w-full h-full object-center object-cover"
+                          />
+                        </div>
+                        <div className="w-44 h-64 rounded-lg overflow-hidden">
+                          <img
+                            src="images/9.png"
                             alt=""
                             className="w-full h-full object-center object-cover"
                           />
@@ -82,7 +82,7 @@ export default function Banner() {
                 </div>
   
                 <a
-                  href="#"
+                  href="Informacion"
                   className="inline-block text-center bg-blue-800 border border-transparent rounded-md py-3 px-8 font-medium text-white hover:bg-pink-600"
                 >
                   CREATIK
